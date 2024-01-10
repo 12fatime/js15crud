@@ -1,0 +1,33 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "first_name": "Home Loan",
+      "last_name": "What are my options and the cost to exercise?",
+      "information": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost.",
+      "image": "./image/services1.svg"
+    },
+    {
+      "image": "./image/services2.svg",
+      "first_name": "Car Loan",
+      "last_name": "Should I exercise now or later? How can I afford it?",
+      "information": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Business Loan",
+      "last_name": "I own my shares - can I get liquidity now without selling?",
+      "information": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost.",
+      "image": "./image/services3.svg"
+    },
+    {
+      "id": 4,
+      "first_name": "Business Loan",
+      "last_name": "I own my shares - can I get liquidity now without selling?",
+      "information": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost.",
+      "image": "./image/services3.svg"
+    }
+  ],
+  "favori": []
+}
